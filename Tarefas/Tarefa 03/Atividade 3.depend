@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1624387911 source:c:\users\rafa\desktop\atividade 3\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"dados.h"
+
+1624387911 c:\users\rafa\desktop\atividade 3\dados.h
+
+1624388118 source:c:\users\rafa\desktop\atividade 3\dados.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"dados.h"
+
+1624550376 source:d:\mega\graduacao_eng_eletronica\programacao_2\programacao-2\tarefas\tarefa 03\dados.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"dados.h"
+
+1624550595 d:\mega\graduacao_eng_eletronica\programacao_2\programacao-2\tarefas\tarefa 03\dados.h
+
+1624388258 source:d:\mega\graduacao_eng_eletronica\programacao_2\programacao-2\tarefas\tarefa 03\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"dados.h"
+	"dados.c"
+
+1624550376 d:\mega\graduacao_eng_eletronica\programacao_2\programacao-2\tarefas\tarefa 03\dados.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"dados.h"
+
